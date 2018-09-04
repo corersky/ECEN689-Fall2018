@@ -31,6 +31,7 @@
 * Devarsh Jhaveri, [devarshjhaveri](https://github.com/devarshjhaveri)
 * Kanchan Satpute, [KanchanSatpute](https://github.com/KanchanSatpute)
 * Kishan Shah, [kishan3111](https://github.com/kishan3111)
+* Shirish Pandagare, [shirishpandagare](https://github.com/shirishpandagare)
 
 ## Teaching Team
 
